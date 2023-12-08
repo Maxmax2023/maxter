@@ -1,2 +1,2 @@
-# maxter
-Análisis de datos y sus visualizaciones
+# Bellabeat
+Análisis de datos y visualización
